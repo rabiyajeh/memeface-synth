@@ -1,0 +1,6 @@
+numpy>=1.24,<3
+opencv-contrib-python>=4.8,<=4.11.0.86
+# 0.10.22+ removed the legacy `solutions.face_mesh` API used by this project.
+mediapipe>=0.10.14,<=0.10.21
+sounddevice>=0.4.6,<1
+pytest>=8,<9

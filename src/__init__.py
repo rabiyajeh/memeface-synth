@@ -1,0 +1,1 @@
+"""MemeFace Synth application package."""
