@@ -12,7 +12,7 @@ are uploaded.
 - Python 3.11 (recommended; 64-bit)
 - Windows 10/11, macOS, or Linux
 - A webcam
-- Working microphone/audio-output drivers (only output is used)
+- A working audio output device and drivers (no microphone is required)
 
 ## Install and run
 
