@@ -1,0 +1,12 @@
+{
+  "camera_index": 0,
+  "width": 960,
+  "height": 540,
+  "recording_fps": 30,
+  "master_volume": 0.35,
+  "effect_intensity": 1.0,
+  "gesture_sensitivity": 1.0,
+  "smoothing": 0.32,
+  "face_mesh": false,
+  "calibration_file": "config/calibration.json"
+}
